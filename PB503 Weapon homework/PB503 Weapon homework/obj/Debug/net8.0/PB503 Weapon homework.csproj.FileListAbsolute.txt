@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\06.12.2024\PB503 Weapon homework\PB503 Weapon homework\bin\Debug\net8.0\PB503 Weapon homework.exe
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\06.12.2024\PB503 Weapon homework\PB503 Weapon homework\bin\Debug\net8.0\PB503 Weapon homework.deps.json
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\06.12.2024\PB503 Weapon homework\PB503 Weapon homework\bin\Debug\net8.0\PB503 Weapon homework.runtimeconfig.json
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\06.12.2024\PB503 Weapon homework\PB503 Weapon homework\bin\Debug\net8.0\PB503 Weapon homework.dll
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\06.12.2024\PB503 Weapon homework\PB503 Weapon homework\bin\Debug\net8.0\PB503 Weapon homework.pdb
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\06.12.2024\PB503 Weapon homework\PB503 Weapon homework\obj\Debug\net8.0\PB503 Weapon homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\06.12.2024\PB503 Weapon homework\PB503 Weapon homework\obj\Debug\net8.0\PB503 Weapon homework.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\06.12.2024\PB503 Weapon homework\PB503 Weapon homework\obj\Debug\net8.0\PB503 Weapon homework.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\06.12.2024\PB503 Weapon homework\PB503 Weapon homework\obj\Debug\net8.0\PB503 Weapon homework.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\06.12.2024\PB503 Weapon homework\PB503 Weapon homework\obj\Debug\net8.0\PB503 Weapon homework.dll
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\06.12.2024\PB503 Weapon homework\PB503 Weapon homework\obj\Debug\net8.0\refint\PB503 Weapon homework.dll
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\06.12.2024\PB503 Weapon homework\PB503 Weapon homework\obj\Debug\net8.0\PB503 Weapon homework.pdb
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\06.12.2024\PB503 Weapon homework\PB503 Weapon homework\obj\Debug\net8.0\PB503 Weapon homework.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\06.12.2024\PB503 Weapon homework\PB503 Weapon homework\obj\Debug\net8.0\ref\PB503 Weapon homework.dll
